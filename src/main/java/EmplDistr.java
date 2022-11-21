@@ -1,6 +1,6 @@
-
-// La declaración de herencia no sufre
-// ningún cambio con respecto a cómo
+ï»¿
+// La declaraciÃ³n de herencia no sufre
+// ningÃºn cambio con respecto a cÃ³mo
 // se realizaba entre clases no abstractas
 
 public class EmplDistr extends Asal {
